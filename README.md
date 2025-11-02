@@ -20,53 +20,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🤖 Agentic Search Platform</h3>
-      <p align="center">
-        <a href="https://github.com/rohitmukati/Agentic-Search_Platform">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=rohitmukati&repo=Agentic-Search_Platform&theme=dark&hide_border=false" />
-        </a>
-      </p>
-      <p align="center">Advanced AI search system with agentic capabilities</p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🏥 Medical Chatbot (Gen AI)</h3>
-      <p align="center">
-        <a href="https://github.com/rohitmukati/End-to-End-Medical-Chatbot-Generative-AI">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=rohitmukati&repo=End-to-End-Medical-Chatbot-Generative-AI&theme=dark&hide_border=false" />
-        </a>
-      </p>
-      <p align="center">End-to-end medical assistance chatbot using LLMs</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🎙️ Speech-to-Speech System</h3>
-      <p align="center">
-        <a href="https://github.com/rohitmukati/Speech-to-Speech-Multi-Launguage-System">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=rohitmukati&repo=Speech-to-Speech-Multi-Launguage-System&theme=dark&hide_border=false" />
-        </a>
-      </p>
-      <p align="center">Multi-language speech translation & synthesis</p>
-    </td>
-    <td width="50%">
-      <h3 align="center">💼 Automate Hiring Process</h3>
-      <p align="center">
-        <a href="https://github.com/rohitmukati/Automate-Hiring-Process">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=rohitmukati&repo=Automate-Hiring-Process&theme=dark&hide_border=false" />
-        </a>
-      </p>
-      <p align="center">AI-powered recruitment automation system</p>
-    </td>
-  </tr>
-</table>
-
----
-
 ## 💻 Tech Stack
 
 ### **Languages & Core**
@@ -115,7 +68,6 @@
   
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rohitmukati&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
   
-  ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=rohitmukati&theme=dark&hide_border=false)
   
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rohitmukati&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
